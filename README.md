@@ -1,4 +1,4 @@
-# utl_import_jason_r_2_loc
+# utl_import_jason_r_2_lines_of_code
 How to import an arbitrary JSON file with two lines of code and output a SAS dataset
 
     ```  /* T1008300 SAS Forum: Parsing json data ( WPS/PROC-R)  ```
